@@ -1,10 +1,26 @@
 ### Hi there 👋
 
 ### Languages
-![](https://img.shields.io/badge/PHP-Language-yellow?style=flat-square&logo=php&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-Language-yellow?style=flat-square&logo=typescript&logoColor=white)
 
-
+<div>
+<img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+  
 ### Contact me
-![https://discord.com](https://img.shields.io/badge/Discord-Martin%236666-blue?style=flat-square&logo=discord&logoColor=white)
-![https://twitter.com/mzztin](https://img.shields.io/badge/Twitter-%40mzztin-informational?style=flat-square&logo=twitter&logoColor=informational)
+<div>
+  <a href="https://discord.com">
+    <table>
+      <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+      <img src="https://img.shields.io/badge/Martin-grey.svg?style=for-the-badge" />
+    </table>
+  </a>
+</div>
+<div>
+  <a href="https://twitter.com/mzztin">
+    <table>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+      <img src="https://img.shields.io/badge/@Mzztin-white.svg?style=for-the-badge" />
+    </table>
+  </a>
+</div>
